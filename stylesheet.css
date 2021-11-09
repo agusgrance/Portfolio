@@ -148,8 +148,12 @@ opacity: 0.7;
   margin: 25px auto;
 }
 
-.job{
-  margin: 50px 25px;
+.job {
+  margin: 50px 125px;
+  background: white;
+  padding: 70px;
+  border-radius: 15px;
+  box-shadow: 5px 5px 20px 1px #00000040;
 }
 
 .job-data h3{
@@ -176,4 +180,19 @@ opacity: 0.7;
 
 .contacto{
   margin-top: 10%;
+}
+.cv{
+  background-color: rgb(26,106,186);
+  padding: 12px;
+  border-radius: 20px;
+}
+
+a.cv{
+
+  color: white;
+  text-decoration: none;
+}
+
+.experience h2{
+  margin-bottom: 30px;
 }
